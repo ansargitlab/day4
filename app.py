@@ -1,4 +1,4 @@
-azure
+aws
 two
 three
 four
